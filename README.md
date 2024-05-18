@@ -1,4 +1,4 @@
-# Simply run Sublime Text on Alpine/musl!
+# Simply run Sublime Text 4 on Alpine/musl!
 
 ## Steps
 
